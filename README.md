@@ -24,8 +24,7 @@ The program runs from the command line. It does not take any input from the user
 1. Launch the Vagrant VM inside Vagrant sub-directory in the downloaded fullstack-nanodegree-vm repository using command: 
 `$ vagrant up`. 
 2. Then Log into this using command: 
-`$ vagrant ssh`
-After running `vagrant up` and `vagrant ssh` in terminal (see the instructions in link above) run `python3 log_project.py` from inside the vagrant directory. 
+`$ vagrant ssh` 
 3. Change directory to /vagrant:
 `$ cd /vagrant`
 
